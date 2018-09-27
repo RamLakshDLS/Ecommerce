@@ -1,3 +1,3 @@
 function getProduct(){
-  alert("Hello Add The Product")
+  alert("Hello Add The Product");
 }
